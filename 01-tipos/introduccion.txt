@@ -1,0 +1,18 @@
+Javascript es uno de los lenguajes más utilizados en todo el mundo en el desarrollo web. Tiene utilización en
+
+- Frontend
+- Backend
+- Fullstack
+
+También otros usos tales como 
+- Mobile (Android / iOS)
+- App de de escritorio (como un editor de código)
+- Microcontroladores
+
+Es la navaja suiza de los lenguajes de programación
+
+Frameworks de JS:
+- VUE
+- Angular
+- React
+
