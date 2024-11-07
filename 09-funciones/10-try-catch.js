@@ -7,7 +7,6 @@ function sumaTodo(arr) {
             throw new Error(`Elemento ${el} no es numero`)
         }
         return acc + el;
-
     })
 }
 
